@@ -7,7 +7,7 @@ description: >-
 author: Lucy
 featured: true
 categories:
-  - self care
+  - self-care
   - food
 featured_image: https://source.unsplash.com/random?sig=10
 seo:
