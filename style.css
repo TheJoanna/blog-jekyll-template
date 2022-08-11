@@ -119,7 +119,7 @@ section { position: relative; }
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,0.4);
 }
 
 
@@ -202,6 +202,8 @@ p:last-child {
 .subtle         { opacity: 0.8;     }
 .subtitle       { font-size: 0.8rem; }
 
+.word-space     { word-spacing: 0.2rem;}
+
 
 /* ------------ Buttons & Links ------------ */
 a {
@@ -267,7 +269,7 @@ nav a:hover {
 .dropdown { 
   position: relative; 
   display: inline-block;
-  border: 1px solid orange;
+  /* border: 1px solid orange; */
 }
 
 .dropdown-title {
