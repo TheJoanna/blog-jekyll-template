@@ -15,6 +15,8 @@ img { max-width: 100%; height: auto; }
 [class*=col] { padding: 0; }
 [class*=grid] { margin: 0; }
 
+
+/* This is added a default so that sections work with any overlays */
 section { position: relative; }
 
 
@@ -346,7 +348,6 @@ nav a:hover {
 
 
 /* ------------ Blogging elements  ----------------------- */
-
 
 
 /* Post Loop Item  */
