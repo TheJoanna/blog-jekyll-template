@@ -9,7 +9,7 @@ featured: true
 categories:
   - self-care
   - food
-featured_image: /uploads/inner-wisdom-contact-2.jpg
+featured_image:
 seo:
   title:
   description:
