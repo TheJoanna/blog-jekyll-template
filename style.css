@@ -282,14 +282,14 @@ nav a:hover {
 .dropdown-content {
   position: absolute;
   top: 100%;
-  left: -1rem;
+  left: 0rem;
   padding: 0.5rem;
   display:none; 
-  background-color: white;
+  background-color: beige;
   z-index: 2;
   text-align: left;
-  min-width: 10rem;
-  border: 1px solid mediumvioletred;
+  min-width: 100%;
+  /* border: 1px solid mediumvioletred; */
 }
 
 .dropdown:hover .dropdown-content{ 
