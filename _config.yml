@@ -1,7 +1,3 @@
-url: "https://chummy-pea.cloudvent.net/"
-plugins:
- - jekyll-sitemap
-
 collections:
   posts:
     output: true
