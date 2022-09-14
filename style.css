@@ -207,6 +207,7 @@ p:last-child {
 .word-space     { word-spacing: 0.2rem;}
 
 
+
 /* ------------ Buttons & Links ------------ */
 a {
     color: inherit;
@@ -372,6 +373,15 @@ nav a:hover {
   font-size: 0.8rem;
   color: var(--medium-text);
 }
+
+
+/* Copyright */
+
+.copyright {
+  font-family: 'Mulish', serif;
+  font-size: 0.7rem;
+}
+
 
 /* Individual Blog Post Pages  */
 
